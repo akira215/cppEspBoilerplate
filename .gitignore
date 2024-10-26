@@ -1,0 +1,5 @@
+Releases/
+build/
+.devcontainer/
+debug.log
+sdkonfig.old
